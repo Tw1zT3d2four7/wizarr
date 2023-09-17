@@ -7,6 +7,7 @@ __pycache__/
 data/
 /backend/database
 /database
+database.db
 **/node_modules/
 node_modules/
 testing/cypress/screenshots

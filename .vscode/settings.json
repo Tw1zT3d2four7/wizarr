@@ -2,6 +2,7 @@
     "files.exclude": {
         "backend/": true,
         "frontend/": true,
+        "new-backend/": true,
         "venv/": true,
     }
 }
