@@ -28,6 +28,7 @@
           "name": "Run All",
           "configurations": [
             "Run Backend: dev",
+            "Run New Backend: dev",
             "Run Frontend: dev"
           ]
         }
